@@ -31,8 +31,8 @@ Hello! I'm Ahmad Nazar, originally from Kuwait and currently based in the United
 
 My research explores how Large Language Models (LLMs) can be combined with vision, LiDAR, radar, GPS, environmental data and other interesting forms of multi-modal data to create intelligent systems that perceive, reason, and act in real-world environments. I build frameworks that bring together generative models and agent-based architectures for applications such as wireless communication, autonomous decision-making, and infrastructure-to-vehicle systems.
 
-At the heart of my work is a simple but important goal:  
-> to make a positive difference in the world — no matter how small — and to inspire others to pursue what they truly love.
+At the heart of my work is a simple, yet important goal:  
+> To make a positive difference in the world — no matter how small — and to inspire others to pursue what they truly love.
 
 This site highlights my research, publications, projects, and a resource hub designed to help others get started in generative AI and multi-modal reasoning. Whether you're a student, researcher, or simply curious, I hope you find something here that sparks your interest or helps you along your journey.
 
