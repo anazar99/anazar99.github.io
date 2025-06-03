@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Ahmad Nazar, originally from Kuwait and currently based in the United States. I earned my Bachelor's, Master's, and Ph.D. degrees in Computer Engineering from Iowa State University. For my Ph.D, my focus was on Wireless Networking and Communication Systems, and within that scope I focused heavily on the intersection of Applied Generative AI and multi-modal sensor fusion.
+Hello! My name is Ahmad Nazar, originally from Kuwait and currently based in the United States. I earned my Bachelor's, Master's, and Ph.D. degrees in Computer Engineering from Iowa State University. For my Ph.D, my focus was on Wireless Networking and Communication Systems, and within that scope I focused heavily on the intersection of Applied Generative AI and multi-modal sensor fusion.
 
 My research explores how Large Language Models (LLMs) can be combined with vision, LiDAR, radar, GPS, environmental data and other interesting forms of multi-modal data to create intelligent systems that perceive, reason, and act in real-world environments. I build frameworks that bring together generative models and agent-based architectures for applications such as wireless communication, autonomous decision-making, and infrastructure-to-vehicle systems.
 
