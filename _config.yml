@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ahmad
 middle_name: M.
 last_name: Nazar
-contact_note: >
-  [anazar.993@gmail.com](mailto:anazar.993@gmail.com).
+# contact_note: >
+#   [anazar.993@gmail.com](mailto:anazar.993@gmail.com).
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The light of hope and ambition illuminates the world from darkness.
 footer_text: >
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Nazar]
+  first_name: [Ahmad, A.]
 
   style: apa
   locale: en

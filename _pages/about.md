@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D Computer Engineering in Applied Generative AI and Wireless Networks
 
 # profile:
 #   align: right
