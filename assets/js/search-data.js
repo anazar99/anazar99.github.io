@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-resources",
-          title: "resources",
-          description: "Resources to get a start on generative AI and LLM usages.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resources/";
-          },
         },{id: "nav-submenus",
           title: "submenus",
           description: "",
