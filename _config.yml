@@ -173,6 +173,10 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _news/announcement_*.md
+  - assets/jupyter/blog.ipynb
+  - _pages/blog.md
+  - _posts/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
