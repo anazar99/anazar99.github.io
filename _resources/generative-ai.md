@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Generative AI
 description: Overview of generative AI techniques, multi-modal learning, and interdisciplinary applications
-img: assets/img/genai-overview.jpg
+img: assets/img/genai-overview.png
 importance: 1
 category: Introductions
 ---

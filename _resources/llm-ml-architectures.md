@@ -2,7 +2,7 @@
 layout: page
 title: LLM & ML Architectures — Background Knowledge
 description: Foundational concepts and architectures in modern machine learning and generative AI
-img: assets/img/llm-architecture.jpg
+img: assets/img/llm-architecture.png
 importance: 2
 category: Introductions
 ---
@@ -77,19 +77,13 @@ For LLMs, performance can be shaped by the way inputs (prompts) are structured. 
 ## 🔍 Architectures at a Glance
 
 <div class="row">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm mt-1 mt-md-0">
     {% include figure.liquid path="assets/img/transformer-block.png" title="Transformer Encoder-Decoder" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/attention-mechanism.png" title="Self-Attention Diagram" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/llm-stack.png" title="LLM Stack & Fine-Tuning Pipeline" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="caption">
-  Left: Transformer block. Middle: Self-attention schematic. Right: High-level view of LLM training and usage.
+  LLM architecture with transformer block and self-attention schematice.
 </div>
 
 ---

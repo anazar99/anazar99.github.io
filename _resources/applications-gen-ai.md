@@ -2,7 +2,7 @@
 layout: page
 title: Applications of Generative AI
 description: Use cases and system-level roles of CNNs, encoders, LLMs, RAG pipelines, and intelligent agents
-img: assets/img/genai-applications.jpg
+img: assets/img/genai-applications.png
 importance: 3
 category: Introductions
 ---
