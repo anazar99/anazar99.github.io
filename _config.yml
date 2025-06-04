@@ -149,8 +149,9 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
+  resources:
     output: true
+    permalink: /resources/:path/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
