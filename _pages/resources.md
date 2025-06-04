@@ -5,7 +5,7 @@ permalink: /resources/
 description: Resources to get a start on generative AI and LLM usages.
 nav: true
 nav_order: 3
-display_categories: [Introductions, Environment Setups, Toolsets and Frameworks, Retrieval-Augmented Generation, AI Agents]
+display_categories: [Introductions, Toolsets and Frameworks, Retrieval-Augmented Generation, AI Agents]
 horizontal: false
 ---
 
