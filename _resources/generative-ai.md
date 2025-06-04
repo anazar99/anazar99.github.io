@@ -15,21 +15,10 @@ Generative AI represents a powerful paradigm shift in how machines can **create*
 
 Much of my generative AI research is built upon the following foundations:
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/dl-blocks.png" title="Custom Deep Learning Architectures" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/multimodal.png" title="Multi-Modal Data Handling" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/llm-agent.png" title="LLM-Orchestrated Agents" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+ - Custom Deep Learning Architectures
+ - Multi-Modal Data Handling
+ - LLM-Orchestrated Agents
 
-<div class="caption">
-  Left: deep neural blocks for generative models. Middle: multi-modal fusion of LiDAR, radar, and camera. Right: LLMs coordinating modular agents.
-</div>
 
 ## 🧠 Techniques I Use in Generative AI
 
