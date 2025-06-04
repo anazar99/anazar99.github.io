@@ -4,7 +4,7 @@ title: Setting Up a PyTorch Environment
 description: A reproducible setup for PyTorch development on Linux, macOS, and Windows
 img: assets/img/12.png
 importance: 1
-category: resources
+category: Introductions
 related_publications: false
 ---
 
