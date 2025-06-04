@@ -42,13 +42,13 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/dropdown/";
+            window.location.href = "/_pages/dropdown.html";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/the_godfather.html";
             },},{id: "resources-applications-of-generative-ai",
           title: 'Applications of Generative AI',
           description: "Use cases and system-level roles of CNNs, encoders, LLMs, RAG pipelines, and intelligent agents",
@@ -59,6 +59,11 @@ ninja.data = [{
           description: "Overview of generative AI techniques, multi-modal learning, and interdisciplinary applications",
           section: "Resources",handler: () => {
               window.location.href = "/resources/generative-ai/";
+            },},{id: "resources-setting-up-llamaindex-with-hugging-face-and-ollama",
+          title: 'Setting Up LlamaIndex with Hugging Face and Ollama',
+          description: "A unified setup for local and cloud-based LLMs using LlamaIndex",
+          section: "Resources",handler: () => {
+              window.location.href = "/resources/llamaindex-setup/";
             },},{id: "resources-llm-amp-ml-architectures-background-knowledge",
           title: 'LLM &amp;amp; ML Architectures — Background Knowledge',
           description: "Foundational concepts and architectures in modern machine learning and generative AI",
