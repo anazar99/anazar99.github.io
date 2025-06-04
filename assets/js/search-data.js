@@ -49,16 +49,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "resources-setting-up-a-pytorch-environment",
-          title: 'Setting Up a PyTorch Environment',
-          description: "A reproducible setup for PyTorch development on Linux, macOS, and Windows",
+            },},{id: "resources-applications-of-generative-ai",
+          title: 'Applications of Generative AI',
+          description: "Use cases and system-level roles of CNNs, encoders, LLMs, RAG pipelines, and intelligent agents",
           section: "Resources",handler: () => {
-              window.location.href = "/resources/1_Pytorch/";
+              window.location.href = "/resources/applications-gen-ai/";
             },},{id: "resources-introduction-to-generative-ai",
           title: 'Introduction to Generative AI',
           description: "Overview of generative AI techniques, multi-modal learning, and interdisciplinary applications",
           section: "Resources",handler: () => {
-              window.location.href = "/resources/Generative%20AI/";
+              window.location.href = "/resources/generative-ai/";
+            },},{id: "resources-llm-amp-ml-architectures-background-knowledge",
+          title: 'LLM &amp;amp; ML Architectures — Background Knowledge',
+          description: "Foundational concepts and architectures in modern machine learning and generative AI",
+          section: "Resources",handler: () => {
+              window.location.href = "/resources/llm-ml-architectures/";
+            },},{id: "resources-setting-up-ollama",
+          title: 'Setting Up Ollama',
+          description: "Installing and running Ollama locally for fast access to open-source LLMs",
+          section: "Resources",handler: () => {
+              window.location.href = "/resources/ollama-setup/";
+            },},{id: "resources-setting-up-a-pytorch-environment",
+          title: 'Setting Up a PyTorch Environment',
+          description: "A reproducible setup for PyTorch development on Linux, macOS, and Windows",
+          section: "Resources",handler: () => {
+              window.location.href = "/resources/pytorch/";
             },},{
         id: 'social-email',
         title: 'email',
