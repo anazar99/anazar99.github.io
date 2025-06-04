@@ -9,7 +9,7 @@ display_categories: [Introductions, Environment Setups, Toolsets and Frameworks,
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/resources.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -24,14 +24,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% include resources_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include resources.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -50,14 +50,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% include resources_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include resources.liquid %}
     {% endfor %}
   </div>
   {% endif %}
